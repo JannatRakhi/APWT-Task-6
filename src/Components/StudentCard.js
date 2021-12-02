@@ -10,14 +10,14 @@ const StudentCard = (props) => {
         history.push(url);
     }
     return (
-        <div className="col-6 my-3">
+        <div className="col-6 row no-gutters mb-3">
         <div className="card-group">
             <div className="card">
                
                 <div class="card-body">
-                    <div class="d-flex">
-                        <h5 hidden class="card-title text-primary">{id}</h5>
-                        <h5  class="card-title text-primary">{studentId}</h5>
+                    <div class="">
+                        <h5 hidden class="card-title text-success">{id}</h5>
+                        <h5  class="card-title text-success">{studentId}</h5>
                         <h6 class="card-title ms-auto mt-1">{name}</h6>
                     </div>
                     <span></span>

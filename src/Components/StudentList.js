@@ -7,7 +7,7 @@ const StudentList = () => {
     const [students, setStudents] = useState(StudentData);
     console.log(setStudents);
     return (
-        <div className="container" style={{ padding: "10px", background:"#965767"}}>
+        <div className="container" style={{ padding: "10px", background:"#574d50"}}>
             <NavBar />
             <h1>Student list</h1>
             <div className="row">

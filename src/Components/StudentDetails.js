@@ -14,7 +14,7 @@ const StudentDetails = () => {
         <div>
             <NavBar />
             <div className="d-flex justify-content-center align-items-center" style={{ height: '100vh',  }}>
-                <div style={{ padding: "200px", background:"#965767" }}>
+                <div style={{ padding: "200px", background:"#574d50" }}>
                     <h3>Student Information details</h3>
                     <h5>Name: {selectedStudent?.name}</h5>
                     <h5>Id: {selectedStudent?.studentId}</h5>

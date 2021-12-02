@@ -1,8 +1,10 @@
-#Information
+## Information
+
 Name: Nura Jannat Rakhi
 Id: 19-40042-1
 Section: B [Fall 20-21]
-#Functionality:
+
+## Functionality:
 
 1. It's a Student Management system site
 2. Here User can see student's lists.

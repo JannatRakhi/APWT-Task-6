@@ -5,7 +5,7 @@ const Home = () => {
     return (
         <div>
             <NavBar />
-           <div className="d-flex justify-content-center align-items-center" style={{ height: "90vh"}}>
+           <div className="d-flex justify-content-center align-items-center" style={{ height: "90vh", background:"#574d50"}}>
                <div>
                    <h1>Home Route</h1>
                 
